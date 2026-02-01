@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+/* ============================================
+   HSK 1 Vocabulary Master - Chinese Zen Design System
+   ============================================ */
+
+
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  /* Chinese Zen Palette */
+  --imperial-red: #EE1C25;
+  --jade-green: #00A86B; /* or #A8E6CF for soft bg, keeping vivid for accents */
+  --celadon: #A8E6CF;
+  --xuan-paper: #F7F5F0;
+  --ink-black: #1A1A1A;
+  --ink-charcoal: #4A4A4A;
+  --gold-leaf: #C5A059;
+  
+  /* Semantic Mappings */
+  --background: var(--xuan-paper);
+  --foreground: var(--ink-black);
+  
+  --primary: var(--imperial-red);
+  --primary-foreground: #ffffff;
+  
+  --secondary: var(--jade-green);
+  --secondary-foreground: #ffffff;
+
+  --accent: var(--gold-leaf);
+  --accent-foreground: #ffffff;
+
+  --muted: #E5E0D8; /* Slightly darker paper for borders */
+  --muted-foreground: var(--ink-charcoal);
+
+  --card: #ffffff;
+  --card-foreground: var(--ink-black);
+  
+  --border: var(--muted);
+  --input: var(--muted);
+  --ring: var(--imperial-red);
+
+  /* Spacing Scale (Shan Shui - Generous) */
+  --spacing-shan-shui: 4rem; /* p-16 equivalent */
+
+  --radius: 0.5rem;
+}
+
+@theme inline {
+  /* Typography - Ink & Paper */
+  --font-serif: var(--font-noto-serif-sc), ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: var(--font-outfit), ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  
+  /* Extend Colors - Pure Black Primary */
+  --color-imperial-red: var(--imperial-red);
+  --color-jade-green: var(--jade-green);
+  --color-celadon: var(--celadon);
+  --color-xuan-paper: var(--xuan-paper);
+  --color-ink-black: #000000;
+  --color-ink-charcoal: var(--ink-charcoal);
+  --color-gold-leaf: var(--gold-leaf);
+  
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  
+  --color-primary: #000000;
+  --color-primary-foreground: var(--primary-foreground);
+  
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  
+  --color-accent: var(--accent);
+}
+
+/* UTILITIES: Hard Shadows & Borders */
+@layer utilities {
+  .shadow-hard {
+    box-shadow: 4px 4px 0px 0px #000000;
+  }
+  
+  .shadow-hard-sm {
+    box-shadow: 2px 2px 0px 0px #000000;
+  }
+
+  .shadow-hard-lg {
+    box-shadow: 8px 8px 0px 0px #000000;
+  }
+
+  .text-vertical {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+  }
+}
+
+/* BASE STYLES */
+@layer base {
+  body {
+    @apply bg-stone-50 text-ink-black font-sans antialiased;
+    background-image: radial-gradient(#000000 0.5px, transparent 0.5px);
+    background-size: 24px 24px; /* Subtle grid dot pattern */
+    background-color: #fafaf9; /* Stone-50 fallback */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-bold text-ink-black tracking-tight;
+  }
+  
+  /* Selection Color */
+  ::selection {
+    @apply bg-black text-white;
+  }
+}

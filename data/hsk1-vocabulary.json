@@ -1,0 +1,2890 @@
+{
+  "vocabulary": [
+    {
+      "id": 1,
+      "character": "你好",
+      "pinyin": "nǐ hǎo",
+      "translation": "hello",
+      "example_sentence": {
+        "chinese": "你好！我是新来深圳的游客。",
+        "pinyin": "nǐ hǎo! wǒ shì xīn lái shēn zhèn de yóu kè.",
+        "english": "Hello! I am a tourist new to Shenzhen."
+      }
+    },
+    {
+      "id": 2,
+      "character": "我",
+      "pinyin": "wǒ",
+      "translation": "I, me",
+      "example_sentence": {
+        "chinese": "我想去东门老街。",
+        "pinyin": "wǒ xiǎng qù dōng mén lǎo jiē.",
+        "english": "I want to go to Dongmen Old Street."
+      }
+    },
+    {
+      "id": 3,
+      "character": "你",
+      "pinyin": "nǐ",
+      "translation": "you",
+      "example_sentence": {
+        "chinese": "你会说英文吗？",
+        "pinyin": "nǐ huì shuō yīng wén ma?",
+        "english": "Can you speak English?"
+      }
+    },
+    {
+      "id": 4,
+      "character": "他",
+      "pinyin": "tā",
+      "translation": "he, him",
+      "example_sentence": {
+        "chinese": "他带我去华强北。",
+        "pinyin": "tā dài wǒ qù huá qiáng běi.",
+        "english": "He took me to Huaqiangbei."
+      }
+    },
+    {
+      "id": 5,
+      "character": "她",
+      "pinyin": "tā",
+      "translation": "she, her",
+      "example_sentence": {
+        "chinese": "她在深圳湾公园。",
+        "pinyin": "tā zài shēn zhèn wān gōng yuán.",
+        "english": "She is at Shenzhen Bay Park."
+      }
+    },
+    {
+      "id": 6,
+      "character": "是",
+      "pinyin": "shì",
+      "translation": "to be, is, am, are",
+      "example_sentence": {
+        "chinese": "这是地铁站吗？",
+        "pinyin": "zhè shì dì tiě zhàn ma?",
+        "english": "Is this a subway station?"
+      }
+    },
+    {
+      "id": 7,
+      "character": "的",
+      "pinyin": "de",
+      "translation": "possessive particle",
+      "example_sentence": {
+        "chinese": "这是我的行李。",
+        "pinyin": "zhè shì wǒ de xíng li.",
+        "english": "This is my luggage."
+      }
+    },
+    {
+      "id": 8,
+      "character": "不",
+      "pinyin": "bù",
+      "translation": "no, not",
+      "example_sentence": {
+        "chinese": "我不知道怎么去。",
+        "pinyin": "wǒ bù zhī dào zěn me qù.",
+        "english": "I don't know how to go."
+      }
+    },
+    {
+      "id": 9,
+      "character": "人",
+      "pinyin": "rén",
+      "translation": "person, people",
+      "example_sentence": {
+        "chinese": "深圳有很多人。",
+        "pinyin": "shēn zhèn yǒu hěn duō rén.",
+        "english": "Shenzhen has many people."
+      }
+    },
+    {
+      "id": 10,
+      "character": "们",
+      "pinyin": "men",
+      "translation": "plural suffix",
+      "example_sentence": {
+        "chinese": "我们去世界之窗玩。",
+        "pinyin": "wǒ men qù shì jiè zhī chuāng wán.",
+        "english": "We are going to Window of the World to play."
+      }
+    },
+    {
+      "id": 11,
+      "character": "一",
+      "pinyin": "yī",
+      "translation": "one",
+      "example_sentence": {
+        "chinese": "我要一杯奶茶。",
+        "pinyin": "wǒ yào yī bēi nǎi chá.",
+        "english": "I want a cup of milk tea."
+      }
+    },
+    {
+      "id": 12,
+      "character": "二",
+      "pinyin": "èr",
+      "translation": "two",
+      "example_sentence": {
+        "chinese": "二号线到罗湖。",
+        "pinyin": "èr hào xiàn dào luó hú.",
+        "english": "Line 2 goes to Luohu."
+      }
+    },
+    {
+      "id": 13,
+      "character": "三",
+      "pinyin": "sān",
+      "translation": "three",
+      "example_sentence": {
+        "chinese": "三个人一起去。",
+        "pinyin": "sān gè rén yī qǐ qù.",
+        "english": "Three people going together."
+      }
+    },
+    {
+      "id": 14,
+      "character": "四",
+      "pinyin": "sì",
+      "translation": "four",
+      "example_sentence": {
+        "chinese": "四点关门。",
+        "pinyin": "sì diǎn guān mén.",
+        "english": "Closing at four o'clock."
+      }
+    },
+    {
+      "id": 15,
+      "character": "五",
+      "pinyin": "wǔ",
+      "translation": "five",
+      "example_sentence": {
+        "chinese": "五块钱一瓶水。",
+        "pinyin": "wǔ kuài qián yī píng shuǐ.",
+        "english": "Five yuan for a bottle of water."
+      }
+    },
+    {
+      "id": 16,
+      "character": "六",
+      "pinyin": "liù",
+      "translation": "six",
+      "example_sentence": {
+        "chinese": "六点去吃晚饭。",
+        "pinyin": "liù diǎn qù chī wǎn fàn.",
+        "english": "Go eat dinner at six o'clock."
+      }
+    },
+    {
+      "id": 17,
+      "character": "七",
+      "pinyin": "qī",
+      "translation": "seven",
+      "example_sentence": {
+        "chinese": "七月深圳很热。",
+        "pinyin": "qī yuè shēn zhèn hěn rè.",
+        "english": "Shenzhen is very hot in July."
+      }
+    },
+    {
+      "id": 18,
+      "character": "八",
+      "pinyin": "bā",
+      "translation": "eight",
+      "example_sentence": {
+        "chinese": "八点开门营业。",
+        "pinyin": "bā diǎn kāi mén yíng yè.",
+        "english": "Open for business at eight o'clock."
+      }
+    },
+    {
+      "id": 19,
+      "character": "九",
+      "pinyin": "jiǔ",
+      "translation": "nine",
+      "example_sentence": {
+        "chinese": "九号线到红树林。",
+        "pinyin": "jiǔ hào xiàn dào hóng shù lín.",
+        "english": "Line 9 goes to Mangrove Nature Reserve."
+      }
+    },
+    {
+      "id": 20,
+      "character": "十",
+      "pinyin": "shí",
+      "translation": "ten",
+      "example_sentence": {
+        "chinese": "十分钟就到了。",
+        "pinyin": "shí fēn zhōng jiù dào le.",
+        "english": "Will arrive in ten minutes."
+      }
+    },
+    {
+      "id": 21,
+      "character": "在",
+      "pinyin": "zài",
+      "translation": "at, in, on",
+      "example_sentence": {
+        "chinese": "我在深圳北站。",
+        "pinyin": "wǒ zài shēn zhèn běi zhàn.",
+        "english": "I am at Shenzhen North Station."
+      }
+    },
+    {
+      "id": 22,
+      "character": "有",
+      "pinyin": "yǒu",
+      "translation": "to have, there is/are",
+      "example_sentence": {
+        "chinese": "这里有免费WiFi吗？",
+        "pinyin": "zhè lǐ yǒu miǎn fèi WiFi ma?",
+        "english": "Is there free WiFi here?"
+      }
+    },
+    {
+      "id": 23,
+      "character": "这",
+      "pinyin": "zhè",
+      "translation": "this",
+      "example_sentence": {
+        "chinese": "这是什么菜？",
+        "pinyin": "zhè shì shén me cài?",
+        "english": "What dish is this?"
+      }
+    },
+    {
+      "id": 24,
+      "character": "那",
+      "pinyin": "nà",
+      "translation": "that",
+      "example_sentence": {
+        "chinese": "那是平安大厦。",
+        "pinyin": "nà shì píng ān dà shà.",
+        "english": "That is the Ping An Finance Center."
+      }
+    },
+    {
+      "id": 25,
+      "character": "什么",
+      "pinyin": "shénme",
+      "translation": "what",
+      "example_sentence": {
+        "chinese": "这附近有什么好吃的？",
+        "pinyin": "zhè fù jìn yǒu shén me hǎo chī de?",
+        "english": "What good food is nearby?"
+      }
+    },
+    {
+      "id": 26,
+      "character": "谁",
+      "pinyin": "shéi",
+      "translation": "who",
+      "example_sentence": {
+        "chinese": "谁能帮帮我？",
+        "pinyin": "shéi néng bāng bāng wǒ?",
+        "english": "Who can help me?"
+      }
+    },
+    {
+      "id": 27,
+      "character": "哪",
+      "pinyin": "nǎ",
+      "translation": "which",
+      "example_sentence": {
+        "chinese": "我应该坐哪路车？",
+        "pinyin": "wǒ yīng gāi zuò nǎ lù chē?",
+        "english": "Which bus should I take?"
+      }
+    },
+    {
+      "id": 28,
+      "character": "哪儿",
+      "pinyin": "nǎr",
+      "translation": "where",
+      "example_sentence": {
+        "chinese": "地铁站在哪儿？",
+        "pinyin": "dì tiě zhàn zài nǎr?",
+        "english": "Where is the subway station?"
+      }
+    },
+    {
+      "id": 29,
+      "character": "怎么",
+      "pinyin": "zěnme",
+      "translation": "how",
+      "example_sentence": {
+        "chinese": "怎么去欢乐谷？",
+        "pinyin": "zěn me qù huān lè gǔ?",
+        "english": "How to go to Happy Valley?"
+      }
+    },
+    {
+      "id": 30,
+      "character": "几",
+      "pinyin": "jǐ",
+      "translation": "how many, several",
+      "example_sentence": {
+        "chinese": "坐地铁几号线？",
+        "pinyin": "zuò dì tiě jǐ hào xiàn?",
+        "english": "Take which subway line?"
+      }
+    },
+    {
+      "id": 31,
+      "character": "多少",
+      "pinyin": "duōshao",
+      "translation": "how many, how much",
+      "example_sentence": {
+        "chinese": "这个多少钱？",
+        "pinyin": "zhè ge duō shao qián?",
+        "english": "How much is this?"
+      }
+    },
+    {
+      "id": 32,
+      "character": "钱",
+      "pinyin": "qián",
+      "translation": "money",
+      "example_sentence": {
+        "chinese": "可以用现金吗？",
+        "pinyin": "kě yǐ yòng xiàn jīn ma?",
+        "english": "Can I use cash?"
+      }
+    },
+    {
+      "id": 33,
+      "character": "块",
+      "pinyin": "kuài",
+      "translation": "yuan (RMB), piece",
+      "example_sentence": {
+        "chinese": "一共五十块。",
+        "pinyin": "yí gòng wǔ shí kuài.",
+        "english": "Altogether fifty yuan."
+      }
+    },
+    {
+      "id": 34,
+      "character": "吗",
+      "pinyin": "ma",
+      "translation": "question particle",
+      "example_sentence": {
+        "chinese": "可以刷卡吗？",
+        "pinyin": "kě yǐ shuā kǎ ma?",
+        "english": "Can I swipe a card?"
+      }
+    },
+    {
+      "id": 35,
+      "character": "呢",
+      "pinyin": "ne",
+      "translation": "question particle",
+      "example_sentence": {
+        "chinese": "那个饭店呢？",
+        "pinyin": "nà ge fàn diàn ne?",
+        "english": "What about that restaurant?"
+      }
+    },
+    {
+      "id": 36,
+      "character": "和",
+      "pinyin": "hé",
+      "translation": "and",
+      "example_sentence": {
+        "chinese": "我要米饭和水。",
+        "pinyin": "wǒ yào mǐ fàn hé shuǐ.",
+        "english": "I want rice and water."
+      }
+    },
+    {
+      "id": 37,
+      "character": "很",
+      "pinyin": "hěn",
+      "translation": "very",
+      "example_sentence": {
+        "chinese": "深圳很现代化。",
+        "pinyin": "shēn zhèn hěn xiàn dài huà.",
+        "english": "Shenzhen is very modern."
+      }
+    },
+    {
+      "id": 38,
+      "character": "都",
+      "pinyin": "dōu",
+      "translation": "all, both",
+      "example_sentence": {
+        "chinese": "这里都能用微信付款。",
+        "pinyin": "zhè lǐ dōu néng yòng wēi xìn fù kuǎn.",
+        "english": "WeChat Pay can be used everywhere here."
+      }
+    },
+    {
+      "id": 39,
+      "character": "也",
+      "pinyin": "yě",
+      "translation": "also, too",
+      "example_sentence": {
+        "chinese": "我也想去海滨公园。",
+        "pinyin": "wǒ yě xiǎng qù hǎi bīn gōng yuán.",
+        "english": "I also want to go to the seaside park."
+      }
+    },
+    {
+      "id": 40,
+      "character": "会",
+      "pinyin": "huì",
+      "translation": "can, to be able to",
+      "example_sentence": {
+        "chinese": "我会用八达通卡。",
+        "pinyin": "wǒ huì yòng bā dá tōng kǎ.",
+        "english": "I know how to use the Octopus card."
+      }
+    },
+    {
+      "id": 41,
+      "character": "想",
+      "pinyin": "xiǎng",
+      "translation": "to think, to want",
+      "example_sentence": {
+        "chinese": "我想吃点心。",
+        "pinyin": "wǒ xiǎng chī diǎn xin.",
+        "english": "I want to eat dim sum."
+      }
+    },
+    {
+      "id": 42,
+      "character": "喜欢",
+      "pinyin": "xǐhuan",
+      "translation": "to like",
+      "example_sentence": {
+        "chinese": "我喜欢深圳的夜景。",
+        "pinyin": "wǒ xǐ huan shēn zhèn de yè jǐng.",
+        "english": "I like Shenzhen's night view."
+      }
+    },
+    {
+      "id": 43,
+      "character": "爱",
+      "pinyin": "ài",
+      "translation": "to love",
+      "example_sentence": {
+        "chinese": "我爱这座城市！",
+        "pinyin": "wǒ ài zhè zuò chéng shì!",
+        "english": "I love this city!"
+      }
+    },
+    {
+      "id": 44,
+      "character": "看",
+      "pinyin": "kàn",
+      "translation": "to see, to watch",
+      "example_sentence": {
+        "chinese": "我想去看灯光秀。",
+        "pinyin": "wǒ xiǎng qù kàn dēng guāng xiù.",
+        "english": "I want to go watch the light show."
+      }
+    },
+    {
+      "id": 45,
+      "character": "听",
+      "pinyin": "tīng",
+      "translation": "to listen",
+      "example_sentence": {
+        "chinese": "听不懂粤语。",
+        "pinyin": "tīng bu dǒng yuè yǔ.",
+        "english": "(I) don't understand Cantonese."
+      }
+    },
+    {
+      "id": 46,
+      "character": "说",
+      "pinyin": "shuō",
+      "translation": "to speak, to say",
+      "example_sentence": {
+        "chinese": "请慢点儿说。",
+        "pinyin": "qǐng màn diǎnr shuō.",
+        "english": "Please speak slowly."
+      }
+    },
+    {
+      "id": 47,
+      "character": "读",
+      "pinyin": "dú",
+      "translation": "to read",
+      "example_sentence": {
+        "chinese": "我读不懂这个菜单。",
+        "pinyin": "wǒ dú bù dǒng zhè ge cài dān.",
+        "english": "I can't read this menu."
+      }
+    },
+    {
+      "id": 48,
+      "character": "写",
+      "pinyin": "xiě",
+      "translation": "to write",
+      "example_sentence": {
+        "chinese": "请给我写下地址。",
+        "pinyin": "qǐng gěi wǒ xiě xià dì zhǐ.",
+        "english": "Please write down the address for me."
+      }
+    },
+    {
+      "id": 49,
+      "character": "做",
+      "pinyin": "zuò",
+      "translation": "to do, to make",
+      "example_sentence": {
+        "chinese": "怎么做地铁卡？",
+        "pinyin": "zěn me zuò dì tiě kǎ?",
+        "english": "How to get a subway card?"
+      }
+    },
+    {
+      "id": 50,
+      "character": "吃",
+      "pinyin": "chī",
+      "translation": "to eat",
+      "example_sentence": {
+        "chinese": "我想吃潮汕牛肉火锅。",
+        "pinyin": "wǒ xiǎng chī cháo shàn niú ròu huǒ guō.",
+        "english": "I want to eat Chaoshan beef hotpot."
+      }
+    },
+    {
+      "id": 51,
+      "character": "喝",
+      "pinyin": "hē",
+      "translation": "to drink",
+      "example_sentence": {
+        "chinese": "我要喝珍珠奶茶。",
+        "pinyin": "wǒ yào hē zhēn zhū nǎi chá.",
+        "english": "I want to drink pearl milk tea."
+      }
+    },
+    {
+      "id": 52,
+      "character": "买",
+      "pinyin": "mǎi",
+      "translation": "to buy",
+      "example_sentence": {
+        "chinese": "在哪儿买地铁票？",
+        "pinyin": "zài nǎr mǎi dì tiě piào?",
+        "english": "Where to buy subway ticket?"
+      }
+    },
+    {
+      "id": 53,
+      "character": "来",
+      "pinyin": "lái",
+      "translation": "to come",
+      "example_sentence": {
+        "chinese": "我是来旅游的。",
+        "pinyin": "wǒ shì lái lǚ yóu de.",
+        "english": "I came for tourism."
+      }
+    },
+    {
+      "id": 54,
+      "character": "去",
+      "pinyin": "qù",
+      "translation": "to go",
+      "example_sentence": {
+        "chinese": "我要去莲花山公园。",
+        "pinyin": "wǒ yào qù lián huā shān gōng yuán.",
+        "english": "I want to go to Lianhuashan Park."
+      }
+    },
+    {
+      "id": 55,
+      "character": "回",
+      "pinyin": "huí",
+      "translation": "to return",
+      "example_sentence": {
+        "chinese": "怎么回酒店？",
+        "pinyin": "zěn me huí jiǔ diàn?",
+        "english": "How to return to the hotel?"
+      }
+    },
+    {
+      "id": 56,
+      "character": "走",
+      "pinyin": "zǒu",
+      "translation": "to walk, to leave",
+      "example_sentence": {
+        "chinese": "走路要多久？",
+        "pinyin": "zǒu lù yào duō jiǔ?",
+        "english": "How long to walk?"
+      }
+    },
+    {
+      "id": 57,
+      "character": "坐",
+      "pinyin": "zuò",
+      "translation": "to sit, to take (transport)",
+      "example_sentence": {
+        "chinese": "我坐地铁去机场。",
+        "pinyin": "wǒ zuò dì tiě qù jī chǎng.",
+        "english": "I take the subway to the airport."
+      }
+    },
+    {
+      "id": 58,
+      "character": "住",
+      "pinyin": "zhù",
+      "translation": "to live, to stay",
+      "example_sentence": {
+        "chinese": "我住在南山区。",
+        "pinyin": "wǒ zhù zài nán shān qū.",
+        "english": "I live in Nanshan District."
+      }
+    },
+    {
+      "id": 59,
+      "character": "工作",
+      "pinyin": "gōngzuò",
+      "translation": "to work, work",
+      "example_sentence": {
+        "chinese": "我在深圳工作。",
+        "pinyin": "wǒ zài shēn zhèn gōng zuò.",
+        "english": "I work in Shenzhen."
+      }
+    },
+    {
+      "id": 60,
+      "character": "学习",
+      "pinyin": "xuéxí",
+      "translation": "to study",
+      "example_sentence": {
+        "chinese": "我学习中文。",
+        "pinyin": "wǒ xué xí zhōng wén.",
+        "english": "I study Chinese."
+      }
+    },
+    {
+      "id": 61,
+      "character": "认识",
+      "pinyin": "rènshi",
+      "translation": "to know, to recognize",
+      "example_sentence": {
+        "chinese": "很高兴认识你！",
+        "pinyin": "hěn gāo xìng rèn shi nǐ!",
+        "english": "Nice to meet you!"
+      }
+    },
+    {
+      "id": 62,
+      "character": "叫",
+      "pinyin": "jiào",
+      "translation": "to be called",
+      "example_sentence": {
+        "chinese": "这个地方叫什么？",
+        "pinyin": "zhè ge dì fang jiào shén me?",
+        "english": "What is this place called?"
+      }
+    },
+    {
+      "id": 63,
+      "character": "名字",
+      "pinyin": "míngzi",
+      "translation": "name",
+      "example_sentence": {
+        "chinese": "这条街叫什么名字？",
+        "pinyin": "zhè tiáo jiē jiào shén me míng zi?",
+        "english": "What is the name of this street?"
+      }
+    },
+    {
+      "id": 64,
+      "character": "学生",
+      "pinyin": "xuésheng",
+      "translation": "student",
+      "example_sentence": {
+        "chinese": "学生票便宜吗？",
+        "pinyin": "xué sheng piào pián yi ma?",
+        "english": "Is the student ticket cheap?"
+      }
+    },
+    {
+      "id": 65,
+      "character": "老师",
+      "pinyin": "lǎoshī",
+      "translation": "teacher",
+      "example_sentence": {
+        "chinese": "我的中文老师在深圳。",
+        "pinyin": "wǒ de zhōng wén lǎo shī zài shēn zhèn.",
+        "english": "My Chinese teacher is in Shenzhen."
+      }
+    },
+    {
+      "id": 66,
+      "character": "医生",
+      "pinyin": "yīshēng",
+      "translation": "doctor",
+      "example_sentence": {
+        "chinese": "哪里有医生？",
+        "pinyin": "nǎ lǐ yǒu yī shēng?",
+        "english": "Where is a doctor?"
+      }
+    },
+    {
+      "id": 67,
+      "character": "朋友",
+      "pinyin": "péngyou",
+      "translation": "friend",
+      "example_sentence": {
+        "chinese": "我朋友推荐这家餐厅。",
+        "pinyin": "wǒ péng you tuī jiàn zhè jiā cān tīng.",
+        "english": "My friend recommended this restaurant."
+      }
+    },
+    {
+      "id": 68,
+      "character": "同学",
+      "pinyin": "tóngxué",
+      "translation": "classmate",
+      "example_sentence": {
+        "chinese": "我和同学一起来深圳。",
+        "pinyin": "wǒ hé tóng xué yī qǐ lái shēn zhèn.",
+        "english": "I came to Shenzhen with classmates."
+      }
+    },
+    {
+      "id": 69,
+      "character": "家",
+      "pinyin": "jiā",
+      "translation": "home, family",
+      "example_sentence": {
+        "chinese": "我想家了。",
+        "pinyin": "wǒ xiǎng jiā le.",
+        "english": "I miss home."
+      }
+    },
+    {
+      "id": 70,
+      "character": "爸爸",
+      "pinyin": "bàba",
+      "translation": "father, dad",
+      "example_sentence": {
+        "chinese": "我爸爸在等我。",
+        "pinyin": "wǒ bà ba zài děng wǒ.",
+        "english": "My dad is waiting for me."
+      }
+    },
+    {
+      "id": 71,
+      "character": "妈妈",
+      "pinyin": "māma",
+      "translation": "mother, mom",
+      "example_sentence": {
+        "chinese": "给妈妈买个礼物。",
+        "pinyin": "gěi mā ma mǎi gè lǐ wù.",
+        "english": "Buy a gift for mom."
+      }
+    },
+    {
+      "id": 72,
+      "character": "儿子",
+      "pinyin": "érzi",
+      "translation": "son",
+      "example_sentence": {
+        "chinese": "我儿子很喜欢这里。",
+        "pinyin": "wǒ ér zi hěn xǐ huan zhè lǐ.",
+        "english": "My son likes it here very much."
+      }
+    },
+    {
+      "id": 73,
+      "character": "女儿",
+      "pinyin": "nǚ'er",
+      "translation": "daughter",
+      "example_sentence": {
+        "chinese": "我女儿想去游乐园。",
+        "pinyin": "wǒ nǚ ér xiǎng qù yóu lè yuán.",
+        "english": "My daughter wants to go to the amusement park."
+      }
+    },
+    {
+      "id": 74,
+      "character": "中国",
+      "pinyin": "Zhōngguó",
+      "translation": "China",
+      "example_sentence": {
+        "chinese": "我第一次来中国。",
+        "pinyin": "wǒ dì yī cì lái zhōng guó.",
+        "english": "This is my first time in China."
+      }
+    },
+    {
+      "id": 75,
+      "character": "北京",
+      "pinyin": "Běijīng",
+      "translation": "Beijing",
+      "example_sentence": {
+        "chinese": "我从北京来深圳。",
+        "pinyin": "wǒ cóng běi jīng lái shēn zhèn.",
+        "english": "I came to Shenzhen from Beijing."
+      }
+    },
+    {
+      "id": 76,
+      "character": "上",
+      "pinyin": "shàng",
+      "translation": "above, on, to go up",
+      "example_sentence": {
+        "chinese": "在楼上还是楼下？",
+        "pinyin": "zài lóu shàng hái shì lóu xià?",
+        "english": "Upstairs or downstairs?"
+      }
+    },
+    {
+      "id": 77,
+      "character": "下",
+      "pinyin": "xià",
+      "translation": "below, under, to go down",
+      "example_sentence": {
+        "chinese": "下一站是哪里？",
+        "pinyin": "xià yí zhàn shì nǎ lǐ?",
+        "english": "Where is the next stop?"
+      }
+    },
+    {
+      "id": 78,
+      "character": "前",
+      "pinyin": "qián",
+      "translation": "front, before",
+      "example_sentence": {
+        "chinese": "酒店在前面。",
+        "pinyin": "jiǔ diàn zài qián mian.",
+        "english": "The hotel is ahead."
+      }
+    },
+    {
+      "id": 79,
+      "character": "后",
+      "pinyin": "hòu",
+      "translation": "back, behind, after",
+      "example_sentence": {
+        "chinese": "商场在邮局后面。",
+        "pinyin": "shāng chǎng zài yóu jú hòu mian.",
+        "english": "The mall is behind the post office."
+      }
+    },
+    {
+      "id": 80,
+      "character": "里",
+      "pinyin": "lǐ",
+      "translation": "inside",
+      "example_sentence": {
+        "chinese": "在商场里面。",
+        "pinyin": "zài shāng chǎng lǐ mian.",
+        "english": "Inside the mall."
+      }
+    },
+    {
+      "id": 81,
+      "character": "外",
+      "pinyin": "wài",
+      "translation": "outside",
+      "example_sentence": {
+        "chinese": "外面下雨了。",
+        "pinyin": "wài mian xià yǔ le.",
+        "english": "It's raining outside."
+      }
+    },
+    {
+      "id": 82,
+      "character": "左",
+      "pinyin": "zuǒ",
+      "translation": "left",
+      "example_sentence": {
+        "chinese": "向左转。",
+        "pinyin": "xiàng zuǒ zhuǎn.",
+        "english": "Turn left."
+      }
+    },
+    {
+      "id": 83,
+      "character": "右",
+      "pinyin": "yòu",
+      "translation": "right",
+      "example_sentence": {
+        "chinese": "在右边第二个路口。",
+        "pinyin": "zài yòu bian dì èr gè lù kǒu.",
+        "english": "At the second intersection on the right."
+      }
+    },
+    {
+      "id": 84,
+      "character": "东",
+      "pinyin": "dōng",
+      "translation": "east",
+      "example_sentence": {
+        "chinese": "东门老街很热闹。",
+        "pinyin": "dōng mén lǎo jiē hěn rè nao.",
+        "english": "Dongmen Old Street is very lively."
+      }
+    },
+    {
+      "id": 85,
+      "character": "西",
+      "pinyin": "xī",
+      "translation": "west",
+      "example_sentence": {
+        "chinese": "西丽湖很漂亮。",
+        "pinyin": "xī lì hú hěn piào liang.",
+        "english": "Xili Lake is very beautiful."
+      }
+    },
+    {
+      "id": 86,
+      "character": "学校",
+      "pinyin": "xuéxiào",
+      "translation": "school",
+      "example_sentence": {
+        "chinese": "那边有个学校。",
+        "pinyin": "nà bian yǒu gè xué xiào.",
+        "english": "There is a school over there."
+      }
+    },
+    {
+      "id": 87,
+      "character": "商店",
+      "pinyin": "shāngdiàn",
+      "translation": "store, shop",
+      "example_sentence": {
+        "chinese": "哪里有便利商店？",
+        "pinyin": "nǎ lǐ yǒu biàn lì shāng diàn?",
+        "english": "Where is a convenience store?"
+      }
+    },
+    {
+      "id": 88,
+      "character": "饭店",
+      "pinyin": "fàndiàn",
+      "translation": "restaurant, hotel",
+      "example_sentence": {
+        "chinese": "这家饭店很有名。",
+        "pinyin": "zhè jiā fàn diàn hěn yǒu míng.",
+        "english": "This restaurant is very famous."
+      }
+    },
+    {
+      "id": 89,
+      "character": "医院",
+      "pinyin": "yīyuàn",
+      "translation": "hospital",
+      "example_sentence": {
+        "chinese": "最近的医院在哪儿？",
+        "pinyin": "zuì jìn de yī yuàn zài nǎr?",
+        "english": "Where is the nearest hospital?"
+      }
+    },
+    {
+      "id": 90,
+      "character": "书",
+      "pinyin": "shū",
+      "translation": "book",
+      "example_sentence": {
+        "chinese": "我想买本旅游书。",
+        "pinyin": "wǒ xiǎng mǎi běn lǚ yóu shū.",
+        "english": "I want to buy a travel book."
+      }
+    },
+    {
+      "id": 91,
+      "character": "汉语",
+      "pinyin": "Hànyǔ",
+      "translation": "Chinese language",
+      "example_sentence": {
+        "chinese": "我的汉语不太好。",
+        "pinyin": "wǒ de hàn yǔ bú tài hǎo.",
+        "english": "My Chinese is not very good."
+      }
+    },
+    {
+      "id": 92,
+      "character": "字",
+      "pinyin": "zì",
+      "translation": "character, word",
+      "example_sentence": {
+        "chinese": "这个字怎么读？",
+        "pinyin": "zhè ge zì zěn me dú?",
+        "english": "How to read this character?"
+      }
+    },
+    {
+      "id": 93,
+      "character": "桌子",
+      "pinyin": "zhuōzi",
+      "translation": "table, desk",
+      "example_sentence": {
+        "chinese": "那个桌子有人吗？",
+        "pinyin": "nà ge zhuō zi yǒu rén ma?",
+        "english": "Is that table occupied?"
+      }
+    },
+    {
+      "id": 94,
+      "character": "椅子",
+      "pinyin": "yǐzi",
+      "translation": "chair",
+      "example_sentence": {
+        "chinese": "我能坐这个椅子吗？",
+        "pinyin": "wǒ néng zuò zhè ge yǐ zi ma?",
+        "english": "Can I sit on this chair?"
+      }
+    },
+    {
+      "id": 95,
+      "character": "电脑",
+      "pinyin": "diànnǎo",
+      "translation": "computer",
+      "example_sentence": {
+        "chinese": "这里能用电脑吗？",
+        "pinyin": "zhè lǐ néng yòng diàn nǎo ma?",
+        "english": "Can I use a computer here?"
+      }
+    },
+    {
+      "id": 96,
+      "character": "电视",
+      "pinyin": "diànshì",
+      "translation": "television, TV",
+      "example_sentence": {
+        "chinese": "房间有电视吗？",
+        "pinyin": "fáng jiān yǒu diàn shì ma?",
+        "english": "Is there a TV in the room?"
+      }
+    },
+    {
+      "id": 97,
+      "character": "电影",
+      "pinyin": "diànyǐng",
+      "translation": "movie, film",
+      "example_sentence": {
+        "chinese": "附近有电影院吗？",
+        "pinyin": "fù jìn yǒu diàn yǐng yuàn ma?",
+        "english": "Is there a movie theater nearby?"
+      }
+    },
+    {
+      "id": 98,
+      "character": "天气",
+      "pinyin": "tiānqì",
+      "translation": "weather",
+      "example_sentence": {
+        "chinese": "今天天气很热。",
+        "pinyin": "jīn tiān tiān qì hěn rè.",
+        "english": "Today's weather is very hot."
+      }
+    },
+    {
+      "id": 99,
+      "character": "时间",
+      "pinyin": "shíjiān",
+      "translation": "time",
+      "example_sentence": {
+        "chinese": "现在几点了？",
+        "pinyin": "xiàn zài jǐ diǎn le?",
+        "english": "What time is it now?"
+      }
+    },
+    {
+      "id": 100,
+      "character": "今天",
+      "pinyin": "jīntiān",
+      "translation": "today",
+      "example_sentence": {
+        "chinese": "今天去哪儿玩？",
+        "pinyin": "jīn tiān qù nǎr wán?",
+        "english": "Where to go play today?"
+      }
+    },
+    {
+      "id": 101,
+      "character": "明天",
+      "pinyin": "míngtiān",
+      "translation": "tomorrow",
+      "example_sentence": {
+        "chinese": "明天去海边。",
+        "pinyin": "míng tiān qù hǎi biān.",
+        "english": "Going to the seaside tomorrow."
+      }
+    },
+    {
+      "id": 102,
+      "character": "昨天",
+      "pinyin": "zuótiān",
+      "translation": "yesterday",
+      "example_sentence": {
+        "chinese": "昨天去了欢乐谷。",
+        "pinyin": "zuó tiān qù le huān lè gǔ.",
+        "english": "Went to Happy Valley yesterday."
+      }
+    },
+    {
+      "id": 103,
+      "character": "现在",
+      "pinyin": "xiànzài",
+      "translation": "now",
+      "example_sentence": {
+        "chinese": "现在可以吃午饭了。",
+        "pinyin": "xiàn zài kě yǐ chī wǔ fàn le.",
+        "english": "Can eat lunch now."
+      }
+    },
+    {
+      "id": 104,
+      "character": "上午",
+      "pinyin": "shàngwǔ",
+      "translation": "morning, AM",
+      "example_sentence": {
+        "chinese": "上午去购物中心。",
+        "pinyin": "shàng wǔ qù gòu wù zhōng xīn.",
+        "english": "Go to the shopping center in the morning."
+      }
+    },
+    {
+      "id": 105,
+      "character": "中午",
+      "pinyin": "zhōngwǔ",
+      "translation": "noon",
+      "example_sentence": {
+        "chinese": "中午吃什么？",
+        "pinyin": "zhōng wǔ chī shén me?",
+        "english": "What to eat at noon?"
+      }
+    },
+    {
+      "id": 106,
+      "character": "下午",
+      "pinyin": "xiàwǔ",
+      "translation": "afternoon, PM",
+      "example_sentence": {
+        "chinese": "下午有空吗？",
+        "pinyin": "xià wǔ yǒu kòng ma?",
+        "english": "Are you free in the afternoon?"
+      }
+    },
+    {
+      "id": 107,
+      "character": "年",
+      "pinyin": "nián",
+      "translation": "year",
+      "example_sentence": {
+        "chinese": "明年再来深圳。",
+        "pinyin": "míng nián zài lái shēn zhèn.",
+        "english": "Come back to Shenzhen next year."
+      }
+    },
+    {
+      "id": 108,
+      "character": "月",
+      "pinyin": "yuè",
+      "translation": "month",
+      "example_sentence": {
+        "chinese": "这个月很忙。",
+        "pinyin": "zhè ge yuè hěn máng.",
+        "english": "Very busy this month."
+      }
+    },
+    {
+      "id": 109,
+      "character": "日",
+      "pinyin": "rì",
+      "translation": "day, sun",
+      "example_sentence": {
+        "chinese": "今天几号？",
+        "pinyin": "jīn tiān jǐ hào?",
+        "english": "What date is it today?"
+      }
+    },
+    {
+      "id": 110,
+      "character": "星期",
+      "pinyin": "xīngqī",
+      "translation": "week",
+      "example_sentence": {
+        "chinese": "今天星期几？",
+        "pinyin": "jīn tiān xīng qī jǐ?",
+        "english": "What day of the week is it today?"
+      }
+    },
+    {
+      "id": 111,
+      "character": "点",
+      "pinyin": "diǎn",
+      "translation": "o'clock, point",
+      "example_sentence": {
+        "chinese": "五点关门。",
+        "pinyin": "wǔ diǎn guān mén.",
+        "english": "Close at five o'clock."
+      }
+    },
+    {
+      "id": 112,
+      "character": "分钟",
+      "pinyin": "fēnzhōng",
+      "translation": "minute",
+      "example_sentence": {
+        "chinese": "还要等十分钟。",
+        "pinyin": "hái yào děng shí fēn zhōng.",
+        "english": "Still have to wait ten minutes."
+      }
+    },
+    {
+      "id": 113,
+      "character": "岁",
+      "pinyin": "suì",
+      "translation": "years old",
+      "example_sentence": {
+        "chinese": "孩子五岁了。",
+        "pinyin": "hái zi wǔ suì le.",
+        "english": "The child is five years old."
+      }
+    },
+    {
+      "id": 114,
+      "character": "本",
+      "pinyin": "běn",
+      "translation": "measure word for books",
+      "example_sentence": {
+        "chinese": "买两本地图。",
+        "pinyin": "mǎi liǎng běn dì tú.",
+        "english": "Buy two maps."
+      }
+    },
+    {
+      "id": 115,
+      "character": "个",
+      "pinyin": "gè",
+      "translation": "general measure word",
+      "example_sentence": {
+        "chinese": "我要一个包子。",
+        "pinyin": "wǒ yào yí gè bāo zi.",
+        "english": "I want a steamed bun."
+      }
+    },
+    {
+      "id": 116,
+      "character": "杯",
+      "pinyin": "bēi",
+      "translation": "cup, glass",
+      "example_sentence": {
+        "chinese": "来一杯咖啡。",
+        "pinyin": "lái yī bēi kā fēi.",
+        "english": "One coffee please."
+      }
+    },
+    {
+      "id": 117,
+      "character": "大",
+      "pinyin": "dà",
+      "translation": "big, large",
+      "example_sentence": {
+        "chinese": "深圳很大。",
+        "pinyin": "shēn zhèn hěn dà.",
+        "english": "Shenzhen is very big."
+      }
+    },
+    {
+      "id": 118,
+      "character": "小",
+      "pinyin": "xiǎo",
+      "translation": "small, little",
+      "example_sentence": {
+        "chinese": "有小一点的吗？",
+        "pinyin": "yǒu xiǎo yì diǎn de ma?",
+        "english": "Do you have a smaller one?"
+      }
+    },
+    {
+      "id": 119,
+      "character": "多",
+      "pinyin": "duō",
+      "translation": "many, much",
+      "example_sentence": {
+        "chinese": "人很多。",
+        "pinyin": "rén hěn duō.",
+        "english": "Many people."
+      }
+    },
+    {
+      "id": 120,
+      "character": "少",
+      "pinyin": "shǎo",
+      "translation": "few, little",
+      "example_sentence": {
+        "chinese": "少放点辣椒。",
+        "pinyin": "shǎo fàng diǎn là jiāo.",
+        "english": "Put less chili."
+      }
+    },
+    {
+      "id": 121,
+      "character": "好",
+      "pinyin": "hǎo",
+      "translation": "good, well, OK",
+      "example_sentence": {
+        "chinese": "好的，谢谢！",
+        "pinyin": "hǎo de, xiè xiè!",
+        "english": "Okay, thank you!"
+      }
+    },
+    {
+      "id": 122,
+      "character": "热",
+      "pinyin": "rè",
+      "translation": "hot",
+      "example_sentence": {
+        "chinese": "今天太热了。",
+        "pinyin": "jīn tiān tài rè le.",
+        "english": "Today is too hot."
+      }
+    },
+    {
+      "id": 123,
+      "character": "冷",
+      "pinyin": "lěng",
+      "translation": "cold",
+      "example_sentence": {
+        "chinese": "空调太冷了。",
+        "pinyin": "kōng tiáo tài lěng le.",
+        "english": "The AC is too cold."
+      }
+    },
+    {
+      "id": 124,
+      "character": "高兴",
+      "pinyin": "gāoxìng",
+      "translation": "happy, glad",
+      "example_sentence": {
+        "chinese": "我很高兴来深圳！",
+        "pinyin": "wǒ hěn gāo xìng lái shēn zhèn!",
+        "english": "I am very happy to come to Shenzhen!"
+      }
+    },
+    {
+      "id": 125,
+      "character": "漂亮",
+      "pinyin": "piàoliang",
+      "translation": "beautiful, pretty",
+      "example_sentence": {
+        "chinese": "夜景很漂亮。",
+        "pinyin": "yè jǐng hěn piào liang.",
+        "english": "The night view is beautiful."
+      }
+    },
+    {
+      "id": 126,
+      "character": "对不起",
+      "pinyin": "duìbuqǐ",
+      "translation": "sorry, excuse me",
+      "example_sentence": {
+        "chinese": "对不起，请问一下。",
+        "pinyin": "duì bu qǐ, qǐng wèn yí xià.",
+        "english": "Sorry, may I ask..."
+      }
+    },
+    {
+      "id": 127,
+      "character": "没关系",
+      "pinyin": "méiguānxi",
+      "translation": "it doesn't matter, no problem",
+      "example_sentence": {
+        "chinese": "没关系，慢慢来。",
+        "pinyin": "méi guān xi, màn màn lái.",
+        "english": "No problem, take your time."
+      }
+    },
+    {
+      "id": 128,
+      "character": "谢谢",
+      "pinyin": "xièxie",
+      "translation": "thank you",
+      "example_sentence": {
+        "chinese": "谢谢你的帮助！",
+        "pinyin": "xiè xiè nǐ de bāng zhù!",
+        "english": "Thank you for your help!"
+      }
+    },
+    {
+      "id": 129,
+      "character": "不客气",
+      "pinyin": "bú kèqi",
+      "translation": "you're welcome",
+      "example_sentence": {
+        "chinese": "不客气，不用谢。",
+        "pinyin": "bú kè qi, bú yòng xiè.",
+        "english": "You're welcome, no need to thank."
+      }
+    },
+    {
+      "id": 130,
+      "character": "再见",
+      "pinyin": "zàijiàn",
+      "translation": "goodbye",
+      "example_sentence": {
+        "chinese": "再见，欢迎再来！",
+        "pinyin": "zài jiàn, huān yíng zài lái!",
+        "english": "Goodbye, welcome back!"
+      }
+    },
+    {
+      "id": 131,
+      "character": "请",
+      "pinyin": "qǐng",
+      "translation": "please, to invite",
+      "example_sentence": {
+        "chinese": "请问，厕所在哪儿？",
+        "pinyin": "qǐng wèn, cè suǒ zài nǎr?",
+        "english": "Excuse me, where is the toilet?"
+      }
+    },
+    {
+      "id": 132,
+      "character": "能",
+      "pinyin": "néng",
+      "translation": "can, to be able to",
+      "example_sentence": {
+        "chinese": "能用支付宝吗？",
+        "pinyin": "néng yòng zhī fù bǎo ma?",
+        "english": "Can I use Alipay?"
+      }
+    },
+    {
+      "id": 133,
+      "character": "米饭",
+      "pinyin": "mǐfàn",
+      "translation": "rice",
+      "example_sentence": {
+        "chinese": "来一碗米饭。",
+        "pinyin": "lái yì wǎn mǐ fàn.",
+        "english": "One bowl of rice please."
+      }
+    },
+    {
+      "id": 134,
+      "character": "水",
+      "pinyin": "shuǐ",
+      "translation": "water",
+      "example_sentence": {
+        "chinese": "给我一杯水。",
+        "pinyin": "gěi wǒ yī bēi shuǐ.",
+        "english": "Give me a glass of water."
+      }
+    },
+    {
+      "id": 135,
+      "character": "茶",
+      "pinyin": "chá",
+      "translation": "tea",
+      "example_sentence": {
+        "chinese": "有绿茶吗？",
+        "pinyin": "yǒu lǜ chá ma?",
+        "english": "Do you have green tea?"
+      }
+    },
+    {
+      "id": 136,
+      "character": "咖啡",
+      "pinyin": "kāfēi",
+      "translation": "coffee",
+      "example_sentence": {
+        "chinese": "我要杯咖啡。",
+        "pinyin": "wǒ yào bēi kā fēi.",
+        "english": "I want a cup of coffee."
+      }
+    },
+    {
+      "id": 137,
+      "character": "苹果",
+      "pinyin": "píngguǒ",
+      "translation": "apple",
+      "example_sentence": {
+        "chinese": "这个苹果多少钱？",
+        "pinyin": "zhè ge píng guǒ duō shao qián?",
+        "english": "How much is this apple?"
+      }
+    },
+    {
+      "id": 138,
+      "character": "猫",
+      "pinyin": "māo",
+      "translation": "cat",
+      "example_sentence": {
+        "chinese": "这只猫很可爱。",
+        "pinyin": "zhè zhī māo hěn kě ài.",
+        "english": "This cat is very cute."
+      }
+    },
+    {
+      "id": 139,
+      "character": "狗",
+      "pinyin": "gǒu",
+      "translation": "dog",
+      "example_sentence": {
+        "chinese": "我想养一只狗。",
+        "pinyin": "wǒ xiǎng yǎng yì zhī gǒu.",
+        "english": "I want to raise a dog."
+      }
+    },
+    {
+      "id": 140,
+      "character": "衣服",
+      "pinyin": "yīfu",
+      "translation": "clothes",
+      "example_sentence": {
+        "chinese": "这件衣服好看吗？",
+        "pinyin": "zhè jiàn yī fu hǎo kàn ma?",
+        "english": "Does this piece of clothing look good?"
+      }
+    },
+    {
+      "id": 141,
+      "character": "出租车",
+      "pinyin": "chūzūchē",
+      "translation": "taxi",
+      "example_sentence": {
+        "chinese": "帮我叫辆出租车。",
+        "pinyin": "bāng wǒ jiào liàng chū zū chē.",
+        "english": "Help me call a taxi."
+      }
+    },
+    {
+      "id": 142,
+      "character": "飞机",
+      "pinyin": "fēijī",
+      "translation": "airplane",
+      "example_sentence": {
+        "chinese": "去机场怎么走？",
+        "pinyin": "qù jī chǎng zěn me zǒu?",
+        "english": "How to go to the airport?"
+      }
+    },
+    {
+      "id": 143,
+      "character": "打电话",
+      "pinyin": "dǎ diànhuà",
+      "translation": "to make a phone call",
+      "example_sentence": {
+        "chinese": "我要打个电话。",
+        "pinyin": "wǒ yào dǎ gè diàn huà.",
+        "english": "I want to make a phone call."
+      }
+    },
+    {
+      "id": 144,
+      "character": "睡觉",
+      "pinyin": "shuì jiào",
+      "translation": "to sleep",
+      "example_sentence": {
+        "chinese": "我想回去睡觉了。",
+        "pinyin": "wǒ xiǎng huí qù shuì jiào le.",
+        "english": "I want to go back to sleep."
+      }
+    },
+    {
+      "id": 145,
+      "character": "起床",
+      "pinyin": "qǐ chuáng",
+      "translation": "to get up",
+      "example_sentence": {
+        "chinese": "早上几点起床？",
+        "pinyin": "zǎo shang jǐ diǎn qǐ chuáng?",
+        "english": "What time to get up in the morning?"
+      }
+    },
+    {
+      "id": 146,
+      "character": "小姐",
+      "pinyin": "xiǎojiě",
+      "translation": "Miss, young lady",
+      "example_sentence": {
+        "chinese": "小姐，买单！",
+        "pinyin": "xiǎo jiě, mǎi dān!",
+        "english": "Miss, bill please!"
+      }
+    },
+    {
+      "id": 147,
+      "character": "先生",
+      "pinyin": "xiānsheng",
+      "translation": "Mr., sir",
+      "example_sentence": {
+        "chinese": "先生，您的行李。",
+        "pinyin": "xiān sheng, nín de xíng li.",
+        "english": "Sir, your luggage."
+      }
+    },
+    {
+      "id": 148,
+      "character": "太",
+      "pinyin": "tài",
+      "translation": "too, excessively",
+      "example_sentence": {
+        "chinese": "太贵了，能便宜点吗？",
+        "pinyin": "tài guì le, néng pián yi diǎn ma?",
+        "english": "Too expensive, can it be cheaper?"
+      }
+    },
+    {
+      "id": 149,
+      "character": "忙",
+      "pinyin": "máng",
+      "translation": "busy",
+      "example_sentence": {
+        "chinese": "深圳很忙很热闹。",
+        "pinyin": "shēn zhèn hěn máng hěn rè nao.",
+        "english": "Shenzhen is busy and lively."
+      }
+    },
+    {
+      "id": 150,
+      "character": "累",
+      "pinyin": "lèi",
+      "translation": "tired",
+      "example_sentence": {
+        "chinese": "走了一天，好累。",
+        "pinyin": "zǒu le yì tiān, hǎo lèi.",
+        "english": "Walked all day, so tired."
+      }
+    },
+    {
+      "id": 151,
+      "character": "地铁",
+      "pinyin": "dìtiě",
+      "translation": "subway",
+      "example_sentence": {
+        "chinese": "深圳的地铁很方便。",
+        "pinyin": "shēn zhèn de dì tiě hěn fāng biàn.",
+        "english": "Shenzhen's subway is very convenient."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 152,
+      "character": "号线",
+      "pinyin": "hào xiàn",
+      "translation": "metro line",
+      "example_sentence": {
+        "chinese": "坐一号线去大剧院。",
+        "pinyin": "zuò yī hào xiàn qù dà jù yuàn.",
+        "english": "Take Line 1 to the Grand Theater."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 153,
+      "character": "扫码",
+      "pinyin": "sǎo mǎ",
+      "translation": "scan QR code",
+      "example_sentence": {
+        "chinese": "请扫码点餐。",
+        "pinyin": "qǐng sǎo mǎ diǎn cān.",
+        "english": "Please scan code to order food."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 154,
+      "character": "微信",
+      "pinyin": "Wēixìn",
+      "translation": "WeChat",
+      "example_sentence": {
+        "chinese": "加我不微信吧。",
+        "pinyin": "jiā wǒ wēi xìn ba.",
+        "english": "Add my WeChat."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 155,
+      "character": "支付宝",
+      "pinyin": "Zhīfùbǎo",
+      "translation": "Alipay",
+      "example_sentence": {
+        "chinese": "可以用支付宝吗？",
+        "pinyin": "kě yǐ yòng zhī fù bǎo ma?",
+        "english": "Can use Alipay?"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 156,
+      "character": "充电宝",
+      "pinyin": "chōngdiànbǎo",
+      "translation": "power bank",
+      "example_sentence": {
+        "chinese": "哪里有借充电宝？",
+        "pinyin": "nǎ lǐ yǒu jiè chōng diàn bǎo?",
+        "english": "Where to rent a power bank?"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 157,
+      "character": "密码",
+      "pinyin": "mìmǎ",
+      "translation": "password/PIN",
+      "example_sentence": {
+        "chinese": "WiFi密码是多少？",
+        "pinyin": "WiFi mì mǎ shì duō shao?",
+        "english": "What is the WiFi password?"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 158,
+      "character": "高铁",
+      "pinyin": "gāotiě",
+      "translation": "high-speed train",
+      "example_sentence": {
+        "chinese": "坐高铁去广州。",
+        "pinyin": "zuò gāo tiě qù guǎng zhōu.",
+        "english": "Take high-speed train to Guangzhou."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 159,
+      "character": "福田",
+      "pinyin": "Fútián",
+      "translation": "Futian (District)",
+      "example_sentence": {
+        "chinese": "我住在福田区。",
+        "pinyin": "wǒ zhù zài fú tián qū.",
+        "english": "I live in Futian District."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 160,
+      "character": "南山",
+      "pinyin": "Nánshān",
+      "translation": "Nanshan (District)",
+      "example_sentence": {
+        "chinese": "南山有很多科技公司。",
+        "pinyin": "nán shān yǒu hěn duō kē jì gōng sī.",
+        "english": "Nanshan has many tech companies."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 161,
+      "character": "罗湖",
+      "pinyin": "Luóhú",
+      "translation": "Luohu (District)",
+      "example_sentence": {
+        "chinese": "去罗湖口岸过关。",
+        "pinyin": "qù luó hú kǒu àn guò guān.",
+        "english": "Go to Luohu Port to cross the border."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 162,
+      "character": "口岸",
+      "pinyin": "kǒu'àn",
+      "translation": "checkpoint/border",
+      "example_sentence": {
+        "chinese": "福田口岸人很多。",
+        "pinyin": "fú tián kǒu àn rén hěn duō.",
+        "english": "Futian Port has many people."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 163,
+      "character": "导航",
+      "pinyin": "dǎoháng",
+      "translation": "navigation (GPS)",
+      "example_sentence": {
+        "chinese": "我开一下导航。",
+        "pinyin": "wǒ kāi yí xià dǎo háng.",
+        "english": "I'll turn on the navigation."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 164,
+      "character": "打车",
+      "pinyin": "dǎ chē",
+      "translation": "to hail a taxi/DiDi",
+      "example_sentence": {
+        "chinese": "我们打车去吧。",
+        "pinyin": "wǒ men dǎ chē qù ba.",
+        "english": "Let's take a taxi."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 165,
+      "character": "外卖",
+      "pinyin": "wàimài",
+      "translation": "food delivery",
+      "example_sentence": {
+        "chinese": "晚上叫外卖吃。",
+        "pinyin": "wǎn shang jiào wài mài chī.",
+        "english": "Get food delivery for dinner."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 166,
+      "character": "快递",
+      "pinyin": "kuàidì",
+      "translation": "package delivery",
+      "example_sentence": {
+        "chinese": "去取个快递。",
+        "pinyin": "qù qǔ gè kuài dì.",
+        "english": "Go pick up a package."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 167,
+      "character": "奶茶",
+      "pinyin": "nǎichá",
+      "translation": "milk tea",
+      "example_sentence": {
+        "chinese": "深圳的奶茶很好喝。",
+        "pinyin": "shēn zhèn de nǎi chá hěn hǎo hē.",
+        "english": "Shenzhen's milk tea is tasty."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 168,
+      "character": "早茶",
+      "pinyin": "zǎochá",
+      "translation": "Dim Sum (morning tea)",
+      "example_sentence": {
+        "chinese": "周末去喝早茶。",
+        "pinyin": "zhōu mò qù hē zǎo chá.",
+        "english": "Go for dim sum on weekend."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 169,
+      "character": "椰子鸡",
+      "pinyin": "yēzi jī",
+      "translation": "Coconut Chicken",
+      "example_sentence": {
+        "chinese": "椰子鸡是深圳特产。",
+        "pinyin": "yē zi jī shì shēn zhèn tè chǎn.",
+        "english": "Coconut chicken is a Shenzhen specialty."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 170,
+      "character": "打包",
+      "pinyin": "dǎbāo",
+      "translation": "take away (food)",
+      "example_sentence": {
+        "chinese": "服务员，请打包。",
+        "pinyin": "fú wù yuán, qǐng dǎ bāo.",
+        "english": "Waiter, bag it up please."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 171,
+      "character": "发票",
+      "pinyin": "fāpiào",
+      "translation": "official receipt/invoice",
+      "example_sentence": {
+        "chinese": "请开一张发票。",
+        "pinyin": "qǐng kāi yì zhāng fā piào.",
+        "english": "Please issue a receipt."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 172,
+      "character": "哪里",
+      "pinyin": "nǎlǐ",
+      "translation": "where (common variant)",
+      "example_sentence": {
+        "chinese": "万象城在哪里？",
+        "pinyin": "wàn xiàng chéng zài nǎ lǐ?",
+        "english": "Where is The MixC?"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 173,
+      "character": "这里",
+      "pinyin": "zhèlǐ",
+      "translation": "here",
+      "example_sentence": {
+        "chinese": "这里不可以吸烟。",
+        "pinyin": "zhè lǐ bù kě yǐ xī yān.",
+        "english": "Smoking is not allowed here."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 174,
+      "character": "那里",
+      "pinyin": "nàlǐ",
+      "translation": "there",
+      "example_sentence": {
+        "chinese": "那里有一个便利店。",
+        "pinyin": "nà lǐ yǒu yí gè biàn lì diàn.",
+        "english": "There is a convenience store there."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 175,
+      "character": "怎么走",
+      "pinyin": "zěnme zǒu",
+      "translation": "how to get there",
+      "example_sentence": {
+        "chinese": "请问去市民中心怎么走？",
+        "pinyin": "qǐng wèn qù shì mín zhōng xīn zěn me zǒu?",
+        "english": "Excuse me, how to go to Civic Center?"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 176,
+      "character": "直走",
+      "pinyin": "zhí zǒu",
+      "translation": "go straight",
+      "example_sentence": {
+        "chinese": "一直走就到了。",
+        "pinyin": "yī zhí zǒu jiù dào le.",
+        "english": "Go straight and you'll arrive."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 177,
+      "character": "转",
+      "pinyin": "zhuǎn",
+      "translation": "turn",
+      "example_sentence": {
+        "chinese": "前面路口右转。",
+        "pinyin": "qián mian lù kǒu yòu zhuǎn.",
+        "english": "Turn right at the intersection ahead."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 178,
+      "character": "停",
+      "pinyin": "tíng",
+      "translation": "stop",
+      "example_sentence": {
+        "chinese": "师傅，这里停。",
+        "pinyin": "shī fu, zhè lǐ tíng.",
+        "english": "Driver, stop here."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 179,
+      "character": "换乘",
+      "pinyin": "huànchéng",
+      "translation": "transfer (transport)",
+      "example_sentence": {
+        "chinese": "在该站换乘11号线。",
+        "pinyin": "zài gāi zhàn huàn chéng 11 hào xiàn.",
+        "english": "Transfer to Line 11 at this station."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 180,
+      "character": "出口",
+      "pinyin": "chūkǒu",
+      "translation": "exit",
+      "example_sentence": {
+        "chinese": "B出口离商场近。",
+        "pinyin": "B chū kǒu lí shāng chǎng jìn.",
+        "english": "Exit B is close to the mall."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 181,
+      "character": "入口",
+      "pinyin": "rùkǒu",
+      "translation": "entrance",
+      "example_sentence": {
+        "chinese": "地铁入口在那边。",
+        "pinyin": "dì tiě rù kǒu zài nà bian.",
+        "english": "Subway entrance is over there."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 182,
+      "character": "超市",
+      "pinyin": "chāoshì",
+      "translation": "supermarket",
+      "example_sentence": {
+        "chinese": "我去超市买东西。",
+        "pinyin": "wǒ qù chāo shì mǎi dōng xi.",
+        "english": "I go to supermarket to buy things."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 183,
+      "character": "便利店",
+      "pinyin": "biànlìdiàn",
+      "translation": "convenience store",
+      "example_sentence": {
+        "chinese": "楼下有7-11便利店。",
+        "pinyin": "lóu xià yǒu 7-11 biàn lì diàn.",
+        "english": "There is a 7-11 downstairs."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 184,
+      "character": "药店",
+      "pinyin": "yàodiàn",
+      "translation": "pharmacy",
+      "example_sentence": {
+        "chinese": "我想买点感冒药。",
+        "pinyin": "wǒ xiǎng mǎi diǎn gǎn mào yào.",
+        "english": "I want to buy some cold medicine."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 185,
+      "character": "医院",
+      "pinyin": "yīyuàn",
+      "translation": "hospital",
+      "example_sentence": {
+        "chinese": "最近的医院在哪？",
+        "pinyin": "zuì jìn de yī yuàn zài nǎr?",
+        "english": "Where is the nearest hospital?"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 186,
+      "character": "救命",
+      "pinyin": "jiùmìng",
+      "translation": "Help! (Life saving)",
+      "example_sentence": {
+        "chinese": "救命啊！",
+        "pinyin": "jiù mìng a!",
+        "english": "Help!"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 187,
+      "character": "不好意思",
+      "pinyin": "bù hǎoyìsi",
+      "translation": "excuse me/sorry",
+      "example_sentence": {
+        "chinese": "不好意思，让一下。",
+        "pinyin": "bù hǎo yì si, ràng yí xià.",
+        "english": "Excuse me, let me pass."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 188,
+      "character": "没问题",
+      "pinyin": "méi wèntí",
+      "translation": "no problem",
+      "example_sentence": {
+        "chinese": "这个可以做吗？没问题。",
+        "pinyin": "zhè ge kě yǐ zuò ma? méi wèn tí.",
+        "english": "Can this be done? No problem."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 189,
+      "character": "听不懂",
+      "pinyin": "tīng bù dǒng",
+      "translation": "don't understand (listening)",
+      "example_sentence": {
+        "chinese": "抱歉，我听不懂。",
+        "pinyin": "bào qiàn, wǒ tīng bu dǒng.",
+        "english": "Sorry, I don't understand."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 190,
+      "character": "麻烦",
+      "pinyin": "máfan",
+      "translation": "troublesome / to trouble",
+      "example_sentence": {
+        "chinese": "麻烦给我们倒点水。",
+        "pinyin": "má fan gěi wǒ men dào diǎn shuǐ.",
+        "english": "Trouble you to pour us some water."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 191,
+      "character": "现金",
+      "pinyin": "xiànjīn",
+      "translation": "cash",
+      "example_sentence": {
+        "chinese": "我不收现金。",
+        "pinyin": "wǒ bù shōu xiàn jīn.",
+        "english": "I don't accept cash."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 192,
+      "character": "找钱",
+      "pinyin": "zhǎoqián",
+      "translation": "to give change",
+      "example_sentence": {
+        "chinese": "不用找钱了。",
+        "pinyin": "bú yòng zhǎo qián le.",
+        "english": "Keep the change."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 193,
+      "character": "小心",
+      "pinyin": "xiǎoxīn",
+      "translation": "be careful",
+      "example_sentence": {
+        "chinese": "小心地滑。",
+        "pinyin": "xiǎo xīn dì huá.",
+        "english": "Be careful of slippery floor."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 194,
+      "character": "排队",
+      "pinyin": "páiduì",
+      "translation": "queue/line up",
+      "example_sentence": {
+        "chinese": "请在这里排队。",
+        "pinyin": "qǐng zài zhè lǐ pái duì.",
+        "english": "Please line up here."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 195,
+      "character": "服务员",
+      "pinyin": "fúwùyuán",
+      "translation": "waiter/server",
+      "example_sentence": {
+        "chinese": "服务员，点菜！",
+        "pinyin": "fú wù yuán, diǎn cài!",
+        "english": "Waiter, order food!"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 196,
+      "character": "空调",
+      "pinyin": "kōngtiáo",
+      "translation": "air conditioning",
+      "example_sentence": {
+        "chinese": "深圳到处都有空调。",
+        "pinyin": "shēn zhèn dào chù dōu yǒu kōng tiáo.",
+        "english": "Shenzhen has AC everywhere."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 197,
+      "character": "热",
+      "pinyin": "rè",
+      "translation": "hot",
+      "example_sentence": {
+        "chinese": "外面太热了。",
+        "pinyin": "wài mian tài rè le.",
+        "english": "Outside is too hot."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 198,
+      "character": "湿",
+      "pinyin": "shī",
+      "translation": "humid/wet",
+      "example_sentence": {
+        "chinese": "深圳空气很湿。",
+        "pinyin": "shēn zhèn kōng qì hěn shī.",
+        "english": "Shenzhen air is very humid."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 199,
+      "character": "台风",
+      "pinyin": "táifēng",
+      "translation": "typhoon",
+      "example_sentence": {
+        "chinese": "明天有台风。",
+        "pinyin": "míng tiān yǒu tái fēng.",
+        "english": "There is a typhoon tomorrow."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 200,
+      "character": "而且",
+      "pinyin": "érqiě",
+      "translation": "also/furthermore",
+      "example_sentence": {
+        "chinese": "不但便宜，而且好吃。",
+        "pinyin": "bú dàn pián yi, ér qiě hǎo chī.",
+        "english": "Not only cheap, but also delicious."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 201,
+      "character": "还是",
+      "pinyin": "háishì",
+      "translation": "or (in questions)",
+      "example_sentence": {
+        "chinese": "喝茶还是咖啡？",
+        "pinyin": "hē chá hái shì kā fēi?",
+        "english": "Drink tea or coffee?"
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 202,
+      "character": "或者",
+      "pinyin": "huòzhě",
+      "translation": "or (in statements)",
+      "example_sentence": {
+        "chinese": "如果你累了，可以休息或者睡觉。",
+        "pinyin": "rú guǒ nǐ lèi le, kě yǐ xiū xi huò zhě shuì jiào.",
+        "english": "If you are tired, you can rest or sleep."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 203,
+      "character": "为了",
+      "pinyin": "wèile",
+      "translation": "in order to/for",
+      "example_sentence": {
+        "chinese": "为了工作来深圳。",
+        "pinyin": "wèi le gōng zuò lái shēn zhèn.",
+        "english": "Came to Shenzhen for work."
+      },
+      "category": "Shenzhen Survival"
+    },
+    {
+      "id": 204,
+      "character": "地铁",
+      "pinyin": "dìtiě",
+      "translation": "subway/metro",
+      "example_sentence": {
+        "chinese": "坐地铁去购物中心很方便。",
+        "pinyin": "zuò dìtiě qù gòuwù zhōngxīn hěn fāngbiàn.",
+        "english": "Taking the subway to the mall is very convenient."
+      },
+      "category": "Transport"
+    },
+    {
+      "id": 205,
+      "character": "公交车",
+      "pinyin": "gōngjiāochē",
+      "translation": "bus",
+      "example_sentence": {
+        "chinese": "公交车站在哪里？",
+        "pinyin": "gōngjiāochē zhàn zài nǎlǐ?",
+        "english": "Where is the bus stop?"
+      },
+      "category": "Transport"
+    },
+    {
+      "id": 206,
+      "character": "出租车",
+      "pinyin": "chūzūchē",
+      "translation": "taxi",
+      "example_sentence": {
+        "chinese": "我需要叫一辆出租车。",
+        "pinyin": "wǒ xūyào jiào yī liàng chūzūchē.",
+        "english": "I need to call a taxi."
+      },
+      "category": "Transport"
+    },
+    {
+      "id": 207,
+      "character": "机场",
+      "pinyin": "jīchǎng",
+      "translation": "airport",
+      "example_sentence": {
+        "chinese": "去机场要多长时间？",
+        "pinyin": "qù jīchǎng yào duō cháng shíjiān?",
+        "english": "How long does it take to get to the airport?"
+      },
+      "category": "Transport"
+    },
+    {
+      "id": 208,
+      "character": "火车站",
+      "pinyin": "huǒchēzhàn",
+      "translation": "train station",
+      "example_sentence": {
+        "chinese": "深圳北火车站很大。",
+        "pinyin": "shēnzhèn běi huǒchēzhàn hěn dà.",
+        "english": "Shenzhen North train station is very big."
+      },
+      "category": "Transport"
+    },
+    {
+      "id": 209,
+      "character": "咖啡",
+      "pinyin": "kāfēi",
+      "translation": "coffee",
+      "example_sentence": {
+        "chinese": "我想要一杯咖啡。",
+        "pinyin": "wǒ xiǎng yào yī bēi kāfēi.",
+        "english": "I would like a cup of coffee."
+      },
+      "category": "Food"
+    },
+    {
+      "id": 210,
+      "character": "牛奶",
+      "pinyin": "niúnǎi",
+      "translation": "milk",
+      "example_sentence": {
+        "chinese": "早餐我喝牛奶。",
+        "pinyin": "zǎocān wǒ hē niúnǎi.",
+        "english": "I drink milk for breakfast."
+      },
+      "category": "Food"
+    },
+    {
+      "id": 211,
+      "character": "面包",
+      "pinyin": "miànbāo",
+      "translation": "bread",
+      "example_sentence": {
+        "chinese": "这个面包很新鲜。",
+        "pinyin": "zhège miànbāo hěn xīnxiān.",
+        "english": "This bread is very fresh."
+      },
+      "category": "Food"
+    },
+    {
+      "id": 212,
+      "character": "鸡蛋",
+      "pinyin": "jīdàn",
+      "translation": "egg",
+      "example_sentence": {
+        "chinese": "我要两个鸡蛋。",
+        "pinyin": "wǒ yào liǎng gè jīdàn.",
+        "english": "I want two eggs."
+      },
+      "category": "Food"
+    },
+    {
+      "id": 213,
+      "character": "牛肉",
+      "pinyin": "niúròu",
+      "translation": "beef",
+      "example_sentence": {
+        "chinese": "这家餐厅的牛肉面非常好吃。",
+        "pinyin": "zhè jiā cāntīng de niúròu miàn fēicháng hǎochī.",
+        "english": "The beef noodles at this restaurant are delicious."
+      },
+      "category": "Food"
+    },
+    {
+      "id": 214,
+      "character": "蔬菜",
+      "pinyin": "shūcài",
+      "translation": "vegetables",
+      "example_sentence": {
+        "chinese": "多吃蔬菜对身体好。",
+        "pinyin": "duō chī shūcài duì shēntǐ hǎo.",
+        "english": "Eating more vegetables is good for health."
+      },
+      "category": "Food"
+    },
+    {
+      "id": 215,
+      "character": "多少钱",
+      "pinyin": "duōshao qián",
+      "translation": "how much (money)",
+      "example_sentence": {
+        "chinese": "这个多少钱？",
+        "pinyin": "zhège duōshao qián?",
+        "english": "How much is this?"
+      },
+      "category": "Shopping"
+    },
+    {
+      "id": 216,
+      "character": "便宜",
+      "pinyin": "piányi",
+      "translation": "cheap/inexpensive",
+      "example_sentence": {
+        "chinese": "能便宜一点吗？",
+        "pinyin": "néng piányi yīdiǎn ma?",
+        "english": "Can it be a bit cheaper?"
+      },
+      "category": "Shopping"
+    },
+    {
+      "id": 217,
+      "character": "贵",
+      "pinyin": "guì",
+      "translation": "expensive",
+      "example_sentence": {
+        "chinese": "这个太贵了。",
+        "pinyin": "zhège tài guì le.",
+        "english": "This is too expensive."
+      },
+      "category": "Shopping"
+    },
+    {
+      "id": 218,
+      "character": "付款",
+      "pinyin": "fùkuǎn",
+      "translation": "to pay",
+      "example_sentence": {
+        "chinese": "可以用微信付款吗？",
+        "pinyin": "kěyǐ yòng wēixìn fùkuǎn ma?",
+        "english": "Can I pay with WeChat?"
+      },
+      "category": "Shopping"
+    },
+    {
+      "id": 219,
+      "character": "收据",
+      "pinyin": "shōujù",
+      "translation": "receipt",
+      "example_sentence": {
+        "chinese": "请给我收据。",
+        "pinyin": "qǐng gěi wǒ shōujù.",
+        "english": "Please give me the receipt."
+      },
+      "category": "Shopping"
+    },
+    {
+      "id": 220,
+      "character": "试一试",
+      "pinyin": "shì yī shì",
+      "translation": "try it out",
+      "example_sentence": {
+        "chinese": "我可以试一试吗？",
+        "pinyin": "wǒ kěyǐ shì yī shì ma?",
+        "english": "Can I try it on?"
+      },
+      "category": "Shopping"
+    },
+    {
+      "id": 221,
+      "character": "左边",
+      "pinyin": "zuǒbiān",
+      "translation": "left side",
+      "example_sentence": {
+        "chinese": "银行在左边。",
+        "pinyin": "yínháng zài zuǒbiān.",
+        "english": "The bank is on the left."
+      },
+      "category": "Directions"
+    },
+    {
+      "id": 222,
+      "character": "右边",
+      "pinyin": "yòubiān",
+      "translation": "right side",
+      "example_sentence": {
+        "chinese": "超市在右边。",
+        "pinyin": "chāoshì zài yòubiān.",
+        "english": "The supermarket is on the right."
+      },
+      "category": "Directions"
+    },
+    {
+      "id": 223,
+      "character": "直走",
+      "pinyin": "zhí zǒu",
+      "translation": "go straight",
+      "example_sentence": {
+        "chinese": "一直直走，然后左转。",
+        "pinyin": "yīzhí zhí zǒu, ránhòu zuǒ zhuǎn.",
+        "english": "Go straight, then turn left."
+      },
+      "category": "Directions"
+    },
+    {
+      "id": 224,
+      "character": "附近",
+      "pinyin": "fùjìn",
+      "translation": "nearby",
+      "example_sentence": {
+        "chinese": "附近有地铁站吗？",
+        "pinyin": "fùjìn yǒu dìtiě zhàn ma?",
+        "english": "Is there a subway station nearby?"
+      },
+      "category": "Directions"
+    },
+    {
+      "id": 225,
+      "character": "洗手间",
+      "pinyin": "xǐshǒujiān",
+      "translation": "bathroom/restroom",
+      "example_sentence": {
+        "chinese": "请问洗手间在哪里？",
+        "pinyin": "qǐngwèn xǐshǒujiān zài nǎlǐ?",
+        "english": "Excuse me, where is the restroom?"
+      },
+      "category": "Directions"
+    },
+    {
+      "id": 226,
+      "character": "出口",
+      "pinyin": "chūkǒu",
+      "translation": "exit",
+      "example_sentence": {
+        "chinese": "从A出口出去。",
+        "pinyin": "cóng A chūkǒu chūqù.",
+        "english": "Go out from Exit A."
+      },
+      "category": "Directions"
+    },
+    {
+      "id": 227,
+      "character": "救命",
+      "pinyin": "jiùmìng",
+      "translation": "help!/save me!",
+      "example_sentence": {
+        "chinese": "救命！有人需要帮助！",
+        "pinyin": "jiùmìng! yǒu rén xūyào bāngzhù!",
+        "english": "Help! Someone needs assistance!"
+      },
+      "category": "Emergency"
+    },
+    {
+      "id": 228,
+      "character": "医院",
+      "pinyin": "yīyuàn",
+      "translation": "hospital",
+      "example_sentence": {
+        "chinese": "请带我去最近的医院。",
+        "pinyin": "qǐng dài wǒ qù zuìjìn de yīyuàn.",
+        "english": "Please take me to the nearest hospital."
+      },
+      "category": "Emergency"
+    },
+    {
+      "id": 229,
+      "character": "警察",
+      "pinyin": "jǐngchá",
+      "translation": "police",
+      "example_sentence": {
+        "chinese": "我需要找警察。",
+        "pinyin": "wǒ xūyào zhǎo jǐngchá.",
+        "english": "I need to find the police."
+      },
+      "category": "Emergency"
+    },
+    {
+      "id": 230,
+      "character": "药店",
+      "pinyin": "yàodiàn",
+      "translation": "pharmacy",
+      "example_sentence": {
+        "chinese": "附近有药店吗？",
+        "pinyin": "fùjìn yǒu yàodiàn ma?",
+        "english": "Is there a pharmacy nearby?"
+      },
+      "category": "Emergency"
+    },
+    {
+      "id": 231,
+      "character": "过敏",
+      "pinyin": "guòmǐn",
+      "translation": "allergy/allergic",
+      "example_sentence": {
+        "chinese": "我对花生过敏。",
+        "pinyin": "wǒ duì huāshēng guòmǐn.",
+        "english": "I am allergic to peanuts."
+      },
+      "category": "Emergency"
+    },
+    {
+      "id": 232,
+      "character": "护照",
+      "pinyin": "hùzhào",
+      "translation": "passport",
+      "example_sentence": {
+        "chinese": "我的护照丢了。",
+        "pinyin": "wǒ de hùzhào diū le.",
+        "english": "I lost my passport."
+      },
+      "category": "Emergency"
+    },
+    {
+      "id": 233,
+      "character": "手机",
+      "pinyin": "shǒujī",
+      "translation": "mobile phone",
+      "example_sentence": {
+        "chinese": "我可以借用你的手机吗？",
+        "pinyin": "wǒ kěyǐ jièyòng nǐ de shǒujī ma?",
+        "english": "May I borrow your phone?"
+      },
+      "category": "Emergency"
+    },
+    {
+      "id": 234,
+      "character": "谢谢",
+      "pinyin": "xièxie",
+      "translation": "thank you",
+      "example_sentence": {
+        "chinese": "谢谢你的帮助。",
+        "pinyin": "xièxie nǐ de bāngzhù.",
+        "english": "Thank you for your help."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 235,
+      "character": "不客气",
+      "pinyin": "bú kèqi",
+      "translation": "you're welcome",
+      "example_sentence": {
+        "chinese": "不客气，这是我应该做的。",
+        "pinyin": "bú kèqi, zhè shì wǒ yīnggāi zuò de.",
+        "english": "You're welcome, this is what I should do."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 236,
+      "character": "对不起",
+      "pinyin": "duìbuqǐ",
+      "translation": "sorry",
+      "example_sentence": {
+        "chinese": "对不起，我迟到了。",
+        "pinyin": "duìbuqǐ, wǒ chídào le.",
+        "english": "Sorry, I am late."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 237,
+      "character": "没关系",
+      "pinyin": "méi guānxi",
+      "translation": "it doesn't matter / no problem",
+      "example_sentence": {
+        "chinese": "没关系，下次注意就好。",
+        "pinyin": "méi guānxi, xiàcì zhùyì jiù hǎo.",
+        "english": "No problem, just be careful next time."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 238,
+      "character": "再见",
+      "pinyin": "zàijiàn",
+      "translation": "goodbye",
+      "example_sentence": {
+        "chinese": "再见，明天见。",
+        "pinyin": "zàijiàn, míngtiān jiàn.",
+        "english": "Goodbye, see you tomorrow."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 239,
+      "character": "请",
+      "pinyin": "qǐng",
+      "translation": "please",
+      "example_sentence": {
+        "chinese": "请给我一杯水。",
+        "pinyin": "qǐng gěi wǒ yī bēi shuǐ.",
+        "english": "Please give me a glass of water."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 240,
+      "character": "请问",
+      "pinyin": "qǐngwèn",
+      "translation": "may I ask / excuse me",
+      "example_sentence": {
+        "chinese": "请问地铁站在哪？",
+        "pinyin": "qǐngwèn dìtiě zhàn zài nǎ?",
+        "english": "Excuse me, where is the subway station?"
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 241,
+      "character": "不好意思",
+      "pinyin": "bù hǎoyìsi",
+      "translation": "excuse me / sorry (mild)",
+      "example_sentence": {
+        "chinese": "不好意思，借过一下。",
+        "pinyin": "bù hǎoyìsi, jièguò yīxià.",
+        "english": "Excuse me, let me pass through."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 242,
+      "character": "我不懂",
+      "pinyin": "wǒ bù dǒng",
+      "translation": "I don't understand",
+      "example_sentence": {
+        "chinese": "对不起，我不懂中文。",
+        "pinyin": "duìbuqǐ, wǒ bù dǒng zhōngwén.",
+        "english": "Sorry, I don't understand Chinese."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 243,
+      "character": "请稍等",
+      "pinyin": "qǐng shāo děng",
+      "translation": "please wait a moment",
+      "example_sentence": {
+        "chinese": "请稍等，我马上回来。",
+        "pinyin": "qǐng shāo děng, wǒ mǎshàng huílái.",
+        "english": "Please wait a moment, I'll be right back."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 244,
+      "character": "请进",
+      "pinyin": "qǐng jìn",
+      "translation": "please come in",
+      "example_sentence": {
+        "chinese": "有人敲门，请进！",
+        "pinyin": "yǒu rén qiāo mén, qǐng jìn!",
+        "english": "Someone is knocking, please come in!"
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 245,
+      "character": "请坐",
+      "pinyin": "qǐng zuò",
+      "translation": "please sit down",
+      "example_sentence": {
+        "chinese": "大家请坐，会议开始了。",
+        "pinyin": "dàjiā qǐng zuò, huìyì kāishǐ le.",
+        "english": "Everyone please sit down, the meeting is starting."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 246,
+      "character": "早上好",
+      "pinyin": "zǎoshang hǎo",
+      "translation": "good morning",
+      "example_sentence": {
+        "chinese": "老师，早上好！",
+        "pinyin": "lǎoshī, zǎoshang hǎo!",
+        "english": "Teacher, good morning!"
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 247,
+      "character": "晚安",
+      "pinyin": "wǎn'ān",
+      "translation": "good night",
+      "example_sentence": {
+        "chinese": "睡觉了，晚安。",
+        "pinyin": "shuìjiào le, wǎn'ān.",
+        "english": "Going to sleep, good night."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 248,
+      "character": "打扰一下",
+      "pinyin": "dǎrǎo yīxià",
+      "translation": "sorry to bother you",
+      "example_sentence": {
+        "chinese": "打扰一下，请问这是谁的包？",
+        "pinyin": "dǎrǎo yīxià, qǐngwèn zhè shì shéi de bāo?",
+        "english": "Sorry to bother you, whose bag is this?"
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 249,
+      "character": "小心",
+      "pinyin": "xiǎoxīn",
+      "translation": "be careful",
+      "example_sentence": {
+        "chinese": "小心！地上很滑。",
+        "pinyin": "xiǎoxīn! dìshàng hěn huá.",
+        "english": "Be careful! The floor is slippery."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 250,
+      "character": "干杯",
+      "pinyin": "gānbēi",
+      "translation": "cheers/bottoms up",
+      "example_sentence": {
+        "chinese": "为我们的友谊干杯！",
+        "pinyin": "wèi wǒmen de yǒuyì gānbēi!",
+        "english": "Cheers to our friendship!"
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 251,
+      "character": "太好了",
+      "pinyin": "tài hǎole",
+      "translation": "that's great",
+      "example_sentence": {
+        "chinese": "太好了，我们要去旅游了！",
+        "pinyin": "tài hǎole, wǒmen yào qù lǚyóu le!",
+        "english": "That's great, we are going on a trip!"
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 252,
+      "character": "真的吗",
+      "pinyin": "zhēn de ma",
+      "translation": "really?",
+      "example_sentence": {
+        "chinese": "真的吗？我不敢相信。",
+        "pinyin": "zhēn de ma? wǒ bù gǎn xiāngxìn.",
+        "english": "Really? I can't believe it."
+      },
+      "category": "Social / Politeness"
+    },
+    {
+      "id": 253,
+      "character": "服务员",
+      "pinyin": "fúwùyuán",
+      "translation": "waiter/waitress",
+      "example_sentence": {
+        "chinese": "服务员，请点菜。",
+        "pinyin": "fúwùyuán, qǐng diǎn cài.",
+        "english": "Waiter, order please."
+      },
+      "category": "Social / Politeness"
+    }
+  ]
+}
