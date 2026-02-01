@@ -5,6 +5,7 @@ import { VocabularyProvider } from "@/context/VocabularyContext";
 import Navigation from "@/components/Navigation";
 import ScrollProgress from "@/components/atoms/ScrollProgress";
 import BackToTop from "@/components/atoms/BackToTop";
+import Footer from "@/components/Footer";
 
 const notoSerifSC = Noto_Serif_SC({
   variable: "--font-noto-serif-sc",
@@ -42,6 +43,7 @@ export default function RootLayout({
           {children}
           <BackToTop />
         </VocabularyProvider>
+        <Footer />
       </body>
     </html>
   );
