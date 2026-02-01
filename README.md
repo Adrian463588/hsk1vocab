@@ -137,6 +137,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<p align="center">
-  Built with ❤️ in Shenzhen using <a href="https://nextjs.org">Next.js</a>
-</p>
