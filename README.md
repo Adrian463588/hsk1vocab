@@ -1,6 +1,8 @@
 # 🏮 HSK 1 Vocabulary Master
 > **"Ink & Paper" Edition** — A minimalist, high-performance Chinese vocabulary companion.
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://hsk1vocab.edgeone.dev/)
+
 ![Next.js](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
